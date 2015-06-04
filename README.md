@@ -10,3 +10,6 @@ Find an audio file you want to use as your alarm and if it is not in MP3 format,
 Find an image, preferrably an image with transparent background, which you want to display when the alarm goes off. The width of the image should not exceed 450 pixels. If the image is not in PNG format, save it as PNG using an image editor of your choice (make sure not to lose the transparency in the process). Put the image file in the folder `images` and rename it as `character.png`.
 
 Open the HTML file to start the alarm clock and use the sliders to set the time when you want the alarm to go off. Press the Set button to set the alarm. When the alarm is set, you can cancel it by pressing the Clear button. 
+
+### Demo
+[link](http://kurapan.com/atago-alarm)
